@@ -17,7 +17,12 @@ Claude Code 插件和技能集合。
 **安装:**
 
 ```bash
-/plugin install git-commit-message@claude-marketplace
+/plugin install git-commit-message@dailyyoga-plugin-marketplace
+```
+
+**更新：**
+```bash
+/plugin update git-commit-message@dailyyoga-plugin-marketplace
 ```
 
 **使用:**
