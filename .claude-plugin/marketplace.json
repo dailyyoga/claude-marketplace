@@ -1,0 +1,15 @@
+{
+  "name": "dailyyoga-plugin-marketplace",
+  "description": "dailyyoga Claude Code 插件和技能集合",
+  "version": "1.0.0",
+  "owner": {
+    "name": "dailyyoga"
+  },
+  "plugins": [
+    {
+      "name": "git-commit-message",
+      "description": "为 git diff 生成清晰的提交信息。适用于编写提交信息或审查暂存更改。",
+      "source": "./git-commit-message"
+    }
+  ]
+}
