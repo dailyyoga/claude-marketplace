@@ -1,0 +1,8 @@
+{
+  "name": "code-review",
+  "description": "Universal code review tool. Auto-detects project tech stack, reviews against CLAUDE.md project conventions and language/framework best practices. Supports any language and framework (React, Vue, Go, Rust, Flutter, etc.).",
+  "version": "1.0.0",
+  "author": {
+    "name": "dailyyoga"
+  }
+}
