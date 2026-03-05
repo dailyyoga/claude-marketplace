@@ -10,11 +10,6 @@
       "name": "git-commit-message",
       "description": "为 git diff 生成清晰的提交信息。适用于编写提交信息或审查暂存更改。",
       "source": "./git-commit-message"
-    },
-    {
-      "name": "code-review",
-      "description": "通用代码审查工具。自动检测项目技术栈，结合 CLAUDE.md 项目规范和语言/框架最佳实践进行审查。支持任意语言和框架（React、Vue、Go、Rust、Flutter 等）。",
-      "source": "./code-review"
     }
   ]
 }
