@@ -1,6 +1,6 @@
 ---
 name: git-commit-message
-description: 为git diffs生成清晰的提交消息。在编写提交消息或查看阶段性更改时使用。
+description: Generate clear and standardized commit messages based on code changes.
 ---
 
 # Generating Commit Messages
@@ -10,6 +10,8 @@ description: 为git diffs生成清晰的提交消息。在编写提交消息或�
 1. Run `git status` to view the modified files
 2. Run `git diff` to view the specific changes
 3. Generate clear commit messages according to *Specifications && Best Practices*
+4. After commit messages are generated， options are provided for committing the message, committing, and pushing to the remote repository
+5. Execute the git command to complete the operation based on the user's previous selection; otherwise, do nothing.
 
 ## Specifications && Best Practices
 
