@@ -1,7 +1,7 @@
 {
   "name": "dailyyoga-plugin-marketplace",
   "description": "dailyyoga Claude Code 插件和技能集合",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "owner": {
     "name": "dailyyoga"
   },
