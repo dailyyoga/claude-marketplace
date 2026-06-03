@@ -1,6 +1,6 @@
 ---
 name: git-commit-message
-description: Generate clear and standardized commit messages based on code changes.
+description: Called when generating the commit message, it produces a clear and standardized commit message.
 ---
 
 # Generating Commit Messages
